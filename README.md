@@ -10,5 +10,5 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MN-Alberto)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MN-Alberto&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff)
 </div>
